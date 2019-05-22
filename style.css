@@ -10,17 +10,20 @@ body {
 
 }
 
-header {
-
-  position: relative;
-  width: 100%;
+.btn-primary {
+  background-color: #ff8080;
+  border: 2px solid #ff8080;
 }
 
+.btn-primary:hover {
+  background-color: #ffb3b3;
+  border: 2px solid #ffb3b3;
+}
 
 /* Main content background */
 main.startup {
 
-  background-image: url(./header.jpg);
+  background-image: url(./header2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
