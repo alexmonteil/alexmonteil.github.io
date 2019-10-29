@@ -12,12 +12,18 @@ body {
 
 .btn-primary {
   background-color: #ff8080;
-  border: 2px solid #ff8080;
+  border: 1px solid #fffff0;
 }
 
 .btn-primary:hover {
   background-color: #ffb3b3;
-  border: 2px solid #ffb3b3;
+  border: 1px solid #ffb3b3;
+}
+
+.btn-xl {
+  height: 2.5em;
+  width: 7em;
+  font-size: 1.5em;
 }
 
 /* Main content background */
